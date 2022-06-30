@@ -1,5 +1,5 @@
 # Submission Akhir Aplikasi Story App
-Submission 2 - Aplikasi Story App Paging Data & Maps program Bangkit by Adela SN.
+Submission 2 - Story App menggunakan Paging List & Maps program Bangkit by Adela SN.
 
 Checklist:
 
