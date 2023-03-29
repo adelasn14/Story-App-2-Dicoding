@@ -1,13 +1,13 @@
-# Submission Akhir Aplikasi Story App
-Submission 2 - Story App menggunakan Paging List & Maps program Bangkit by Adela SN.
+# End of story app submission
+Submission 2 - Story App uses the Paging List & Maps program Bangkit by Adela SN.
 
 Checklist:
 
-[x] Mempertahankan Fitur dari Submission Sebelumnya
+[x] Retaining Features from Previous Submissions
 
-[x] Menampilkan daftar cerita dalam bentuk peta dengan benar. 
+[x] Displays the story list in the form of a map correctly.
 
-[x] Menampilkan list story dengan menggunakan Paging 3 dengan benar.
+[x] Displays a list of stories using Paging 3 correctly.
 
 More details about the madscore : https://madscorecard.withgoogle.com/scorecard/share/1049398509/
 
